@@ -1,0 +1,4 @@
+lidar_topic_name: "/navi/ray_cloud"
+imu_topic_name: "/nav/filtered_imu/data"
+
+
