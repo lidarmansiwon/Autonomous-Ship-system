@@ -44,6 +44,7 @@ import sensor_msgs.point_cloud2 as pc2
 
 class autonomous:
 
+    test1 = 1		
     Point_pub = rospy.Publisher("Point", Marker, queue_size=1)
 
     dot=[]
